@@ -7,3 +7,5 @@ The installation is easy and all required files are in the zip folder, the metho
 --Note that this only works for NVIDIA GPU. Make sure to open roblox from the bloxstrap file that was put into the zip folder.
 
 Kongerhub Side Project https://discord.gg/EYJSGhHmbE
+
+*all files provided by @milderous*
