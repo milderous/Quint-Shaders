@@ -4,6 +4,6 @@ Using pizzaboxers bloxstrap and QUINT reshaders. I have made this shader pack fo
 
 The installation is easy and all required files are in the zip folder, the method is inside the file too so read along and enjoy.
 
---**PLEASE NOTE** THAT YOU MUST LAUNCH ROBLOX FROM THE BLOXSTRAP FILE IN THE ZIP FOLDER
+--Note that this only works for NVIDIA GPU. Make sure to open roblox from the bloxstrap file that was put into the zip folder.
 
 Kongerhub Side Project https://discord.gg/EYJSGhHmbE
